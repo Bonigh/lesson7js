@@ -1,4 +1,4 @@
-name: jsaction
+name: jsAction
 on: 
   push:
 jobs:
